@@ -4,8 +4,8 @@
     {
         public SystemSupportMail()
         {
-            senderMail = "jgc.isc@gmail.com";
-            password = "65d3b5d221";
+            senderMail = "Correo electronico del remitente";
+            password = "Contraseña del correo electronico del remitente";
             host = "smtp.gmail.com";
             port = 587;
             ssl = true;
